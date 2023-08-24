@@ -1,5 +1,5 @@
 - name: Extract tgz
-    uses: ihiroky/extract-action@v1
+    uses: i'hiroky/extract-action@v1'
     with:
         file_path: 'svenska-api-main.zip'
         extract_dir: ''
